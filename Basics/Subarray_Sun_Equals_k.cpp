@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+
+// Brute Force Approach
 int main()
 {
     int n;
