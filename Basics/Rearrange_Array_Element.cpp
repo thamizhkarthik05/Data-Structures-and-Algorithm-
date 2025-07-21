@@ -25,7 +25,7 @@ int main()
         if(i%2==0){
         
             arr[i] = arr[i] + (arr[max_index] % op) * op;
-            max_index--;    
+            max_index--;     
         }
         else
         {
